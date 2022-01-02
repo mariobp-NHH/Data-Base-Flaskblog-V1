@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f710db7e-7754-4402-a57d-a370e0f0d9ed" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;flaskblog.py&#10;#&#9;templates/layout.html">
+    <list default="true" id="f710db7e-7754-4402-a57d-a370e0f0d9ed" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +178,31 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1641062495404</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1641062617506</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1641062617506</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1641062665836</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1641062665836</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1641102373155</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1641102373155</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1641102654187</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1641102654187</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +219,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;flaskblog.py&#10;#&#9;templates/layout.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;flaskblog.py&#10;#&#9;templates/layout.html" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
